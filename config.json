@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdrocess",
+        "uuid": 16232344,
+        "checksum": "kbcukg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
